@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skywalker/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/skywalker/static/js/main.6aa371b8.chunk.js",
+    "main.js.map": "/skywalker/static/js/main.6aa371b8.chunk.js.map",
+    "runtime-main.js": "/skywalker/static/js/runtime-main.d96fa47d.js",
+    "runtime-main.js.map": "/skywalker/static/js/runtime-main.d96fa47d.js.map",
+    "static/js/2.cd5a0652.chunk.js": "/skywalker/static/js/2.cd5a0652.chunk.js",
+    "static/js/2.cd5a0652.chunk.js.map": "/skywalker/static/js/2.cd5a0652.chunk.js.map",
+    "static/js/3.66ae6dec.chunk.js": "/skywalker/static/js/3.66ae6dec.chunk.js",
+    "static/js/3.66ae6dec.chunk.js.map": "/skywalker/static/js/3.66ae6dec.chunk.js.map",
+    "index.html": "/skywalker/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/skywalker/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cd5a0652.chunk.js.LICENSE.txt": "/skywalker/static/js/2.cd5a0652.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d96fa47d.js",
+    "static/js/2.cd5a0652.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6aa371b8.chunk.js"
+  ]
+}
